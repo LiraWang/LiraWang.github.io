@@ -14,6 +14,5 @@ Before start persuing my Ph.D., I was a post graduate student in Beijing Normal 
 * Beijing Normal University (09/2014-08/2018)
   - Bachelor of Science in Computer Science, Department of Artificial Intelligence;
 
-logo: ![Image](IMG_7399.JPG)
 
 [Link](url)
