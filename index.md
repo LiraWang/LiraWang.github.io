@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## About
+I am now a first year Ph.D. candidate at the College of Artificial Intelligence of Beijing Normal University. My current research is in the area of zero-knowledge proofs and privacy preservation. 
+Before start persuing my Ph.D., I was a post graduate student in Beijing Normal University. By then my research region is image inpainting, which is a branch of computer vision and deep learning. Because of this backgroud, I am interested in the privacy issue in machine learning and deep learning.
 
-You can use the [editor on GitHub](https://github.com/LiraWang/LiraWang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Image]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Education Background
+* Beijing Normal University <p align="right">09/2020-Present</p>
+  - First year of PhD candidate, recommended;
+  - Research Area: Zero-knowledge proofs
+* Beijing Normal University
+  - Master of Computer Science, recommended;
+  - Research Area: Deep learning and computer vision;
+* Beijing Normal University
+  - Bachelor of Science in Computer Science, Department of Artificial Intelligence;
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
