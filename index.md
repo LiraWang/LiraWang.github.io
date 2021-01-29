@@ -27,4 +27,4 @@ Before start persuing my Ph.D., I was a post graduate student in Beijing Normal 
 [6] **Haodi Wang**, Kaicen Liu, Zhenqi Qi, Junqi Guo, The establishment and optimization of airport security check process model. YAC 2017, p 1026-1030, June 30, 2017
 
 ### CV
-You can find my [CV](url) here.
+You can find my [CV](HaodiWang-CV-BNU.pdf) here.
