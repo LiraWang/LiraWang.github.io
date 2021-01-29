@@ -2,8 +2,6 @@
 I am now a first year Ph.D. candidate at the College of Artificial Intelligence of Beijing Normal University. My current research is in the area of zero-knowledge proofs and privacy preservation. 
 Before start persuing my Ph.D., I was a post graduate student in Beijing Normal University. By then my research region is image inpainting, which is a branch of computer vision and deep learning. Because of this backgroud, I am interested in the privacy issue in machine learning and deep learning.
 
-![logo](logo.png)
-
 
 ### Education Background
 * Beijing Normal University (09/2020-Present)
