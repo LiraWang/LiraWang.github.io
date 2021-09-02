@@ -1,9 +1,11 @@
 ## About
-I am now a first year Ph.D. candidate at the College of Artificial Intelligence of Beijing Normal University. My current research is in the area of zero-knowledge proofs and privacy preservation. 
+I am now a first year Ph.D. candidate at the College of Artificial Intelligence of Beijing Normal University. My current research is in the area of zero-knowledge proofs and privacy preservation. Now I am also a visting Ph.D. student in Virginia Tech.
 Before start persuing my Ph.D., I was a post graduate student in Beijing Normal University. By then my research region is image inpainting, which is a branch of computer vision and deep learning. Because of this backgroud, I am interested in the privacy issue in machine learning and deep learning.
 
 
 ### Education Background
+* Virginia Tech (2021.09-Present)
+  - Visiting PhD student
 * Beijing Normal University (09/2020-Present)
   - First year of PhD candidate, recommended;
   - Research Area: Zero-knowledge proofs
