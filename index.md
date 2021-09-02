@@ -1,7 +1,5 @@
 ## About
-I am now a first year Ph.D. candidate at the College of Artificial Intelligence of Beijing Normal University. My current research is in the area of zero-knowledge proofs and privacy preservation. Now I am also a visting Ph.D. student in Virginia Tech.
-Before start persuing my Ph.D., I was a post graduate student in Beijing Normal University. By then my research region is image inpainting, which is a branch of computer vision and deep learning. Because of this backgroud, I am interested in the privacy issue in machine learning and deep learning.
-
+I am now a first-year Ph.D. candidate at the College of Artificial Intelligence of Beijing Normal University. My current research is in the area of zero-knowledge proofs and privacy preservation. Before I started pursuing my Ph.D., I was a post-graduate student at Beijing Normal University, and my research region is image inpainting, a branch of computer vision and deep learning. Because of this background, I am interested in the privacy issue in machine learning and deep learning.
 
 ### Education Background
 * Virginia Tech (2021.09-Present)
@@ -26,7 +24,7 @@ Before start persuing my Ph.D., I was a post graduate student in Beijing Normal 
 
 [5] Libin Jiao, Hao Wu, **Haodi Wang**, Rongfang Bie. Text recovery via deep CNN-BiLSTM recognition and Bayesian inference[J]. IEEE Access，2018，6(21693536):76416-76428 
 
-[6] **Haodi Wang**, Kaicen Liu, Zhenqi Qi, Junqi Guo, The establishment and optimization of airport security check process model. YAC 2017, p 1026-1030, June 30, 2017
+[6] **Haodi Wang**, Kaicen Liu, Zhenqi Qi, Junqi Guo, The Establishment and Optimization of Airport Security Check Process Model. YAC 2017, p 1026-1030, June 30, 2017
 
 ### CV
 You can find my [CV](CV.html) here.
