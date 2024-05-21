@@ -39,7 +39,6 @@ I am now a Ph.D. candidate at the School of Artificial Intelligence of Beijing N
 
 ### Teaching Assistant Experience
 * Beijing Normal University, Principle of Database System	(2019 Fall, 2020 Fall)
-    - Teach experiment classes for nearly 60 class hours;
 * Beijing Normal University, Deep Learning (2018 Fall)
 
 ### Honor & Awards
