@@ -35,3 +35,26 @@ I am now a Ph.D. candidate at the School of Artificial Intelligence of Beijing N
 [10] Yun Li, Cun Ye, Yuguang Hu, Ivring Morpheus, Yu Guo, Chao Zhang, Yupeng Zhang, Zhipeng Sun, Yiwen Lu, and **Haodi Wang**. 2021. ZKCPlus: Optimized Fair-exchange Protocol Supporting Practical and Flexible Data Exchange. In Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (ACM CCS’21). Association for Computing Machinery, New York, NY, USA, 3002–3021. DOI: https://doi.org/10.1145/3460120.3484558.
 
 [11] Libin Jiao, Hao Wu, **Haodi Wang**, Rongfang Bie. Multi-scale semantic image inpainting with residual learning and GAN[J]. Neurocomputing，2019，331(9252312):199-212 
+
+
+### Teaching Assistant Experience
+* Beijing Normal University, Principle of Database System	(2019 Fall, 2020 Fall)
+    - Teach experiment classes for nearly 60 class hours;
+* Beijing Normal University, Deep Learning (2018 Fall)
+
+### Honor & Awards
+
+* The First prize of the scholarship for New Graduate Students of Beijing Normal University, 2018;
+* The First prize of Academic Scholarship for Graduate Students of Beijing Normal University, 2019, 2020, 2021, and 2022.
+* The Outstanding student cadres of Beijing Normal University, 2019;
+* Merit Student and Outstanding Members of Beijing Normal University.
+
+### International Experience
+* University of California, Berkeley (Summer School	07/2018-08/2018)
+  - Course: The person in big data, 93.48 out of 100;
+  - Course: Academic writing, 95.49 out of 100.
+* Virginia Tech, Blacksburg (Visiting Ph.D.	01/2020-12/2023)
+  - Advisor: Prof. Thang Hoang
+  - Research interest: Zero-knowledge proof in ML/DL
+
+
