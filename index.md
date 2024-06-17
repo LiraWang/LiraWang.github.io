@@ -2,7 +2,7 @@
 I am now a Ph.D. candidate at the School of Artificial Intelligence of Beijing Normal University. My current research is in the area of zero-knowledge proofs and privacy preservation. Before I started pursuing my Ph.D., I was a post-graduate student at Beijing Normal University, and my research region is image inpainting, a branch of computer vision and deep learning. Because of this background, I am interested in the privacy issue in machine learning and deep learning.
 
 ### Education Background
-* Beijing Normal University (09/2020-Present)
+* Beijing Normal University (09/2020-06/2024)
   - PhD candidate, recommended;
   - Research Area: Zero-knowledge proofs
 * Virginia Tech (2021.09-2023.12)
@@ -12,6 +12,10 @@ I am now a Ph.D. candidate at the School of Artificial Intelligence of Beijing N
   - Research Area: Deep learning and computer vision;
 * Beijing Normal University (09/2014-08/2018)
   - Bachelor of Science in Computer Science, School of Artificial Intelligence;
+ 
+### News 
+* Our paper "An Efficient and Zero-Knowledge Classical Machine Learning Inference Pipeline" has been accepted by TDSC! 06/17/24
+* I have graduated from Beijing Normal Unviersity and got my Ph.D. degree! 05/29/24
 
 ### Publications
 [1] **Haodi Wang**, Tangyu Jiang, Yu Guo, Fangda Guo, Rongfang Bie, Xiaohua Jia. Label Noise Correction for Federated Learning: A Secure, Efficient and Reliable Realization. 40th IEEE International Conference on Data Engineering (ICDE’24). 2024. 
@@ -22,7 +26,7 @@ I am now a Ph.D. candidate at the School of Artificial Intelligence of Beijing N
 
 [4] **Haodi Wang**, Yu Guo, Rongfang Bie, Xiaohua Jia. Verifiable Arbitrary Queries with Zero Knowledge Confidentiality in Decentralized Storage. IEEE Transactions on Forensics and Security (TIFS). 2024(19): 1071-1085.
 
-[5] **Haodi Wang**, Rongfang Bie, Thang Hoang. An Efficient and Zero-Knowledge Classical Machine Learning Inference Pipeline. IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.03. (Major Revision)
+[5] **Haodi Wang**, Rongfang Bie, Thang Hoang. An Efficient and Zero-Knowledge Classical Machine Learning Inference Pipeline. IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.03. (Accepted)
 
 [6] **Wang H.**, Jiao L., Bie R., Wu H. Semantic Inpainting with Multi-dimensional Adversarial Network and Wasserstein Distance. In: Peng Y. et al. (eds) Pattern Recognition and Computer Vision. PRCV 2020. Lecture Notes in Computer Science, vol 12307. 2020. Springer, Cham. \url{https://doi.org/10.1007/978-3-030-60636-7_7}.
 
