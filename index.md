@@ -1,11 +1,11 @@
 ## About
-I am now a Ph.D. candidate at the School of Artificial Intelligence of Beijing Normal University. My current research is in the area of zero-knowledge proofs and privacy preservation. Before I started pursuing my Ph.D., I was a post-graduate student at Beijing Normal University, and my research region is image inpainting, a branch of computer vision and deep learning. Because of this background, I am interested in the privacy issue in machine learning and deep learning.
+I am now a Research Assistant Professor in the Department of Computer Science at City University of Hong Kong, advised by Prof. Xiaohua Jia. I have a broad research interest in the area of zero-knowledge proofs, privacy-preserving approaches, and trustworthy AI. I obtained my Bachelor's Degree in 2018 and Doctor's Degree in 2024 from the School of Artificial Intelligence of Beijing Normal University. Prior to the RAP in CityU, I was a Postdoc Research Fellow in the Lab for AI-Powered FINTECH in Hong Kong. 
 
 ### Education Background
-* Beijing Normal University (09/2020-06/2024)
-  - PhD candidate, recommended;
+* Beijing Normal University (09/2020-07/2024)
+  - Ph.D., recommended;
   - Research Area: Zero-knowledge proofs
-* Virginia Tech (2021.09-2023.12)
+* Virginia Tech (2021.09-2024.07)
   - Visiting PhD student
 * Beijing Normal University (09/2018-08/2020)
   - Master of Computer Science, recommended;
@@ -14,10 +14,14 @@ I am now a Ph.D. candidate at the School of Artificial Intelligence of Beijing N
   - Bachelor of Science in Computer Science, School of Artificial Intelligence;
  
 ### News 
+* Our paper "Zero-Knowledge AI Inference with High Precision" has been accepted by Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS'25). Thanks to all the co-authors for the great work!
+* I have two papers accepted by the 34th Conference on Information and Knowledge Management (CIKM'25)! 
+* Our paper "Accelerating Zero-Shot NAS With Feature Map-Based Proxy and Operation Scoring Function" has been accepted by TPAMI! 12/07/25
+* I will work as a Research Assistant Professor at CityU starting from 2025.08!
 * Our paper "An Efficient and Zero-Knowledge Classical Machine Learning Inference Pipeline" has been accepted by TDSC! 06/17/24
-* I have graduated from Beijing Normal Unviersity and got my Ph.D. degree! 05/29/24
+* I have graduated from Beijing Normal University and got my Ph.D. degree! 05/29/24
 
-### Publications
+### Publications (A full list can be found on my Google Scholar.)
 [1] **Haodi Wang**, Tangyu Jiang, Yu Guo, Fangda Guo, Rongfang Bie, Xiaohua Jia. Label Noise Correction for Federated Learning: A Secure, Efficient and Reliable Realization. 40th IEEE International Conference on Data Engineering (ICDE’24). 2024. 
 
 [2] Tangyu Jiang, **Haodi Wang**, Rongfang Bie. MeCo: Zero-Shot NAS with One Data and Single Forward Pass via Minimum Eigenvalue of Correlation, Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS’23). 2023. (Spotlight paper, Co-first author).
@@ -41,9 +45,10 @@ I am now a Ph.D. candidate at the School of Artificial Intelligence of Beijing N
 [11] Libin Jiao, Hao Wu, **Haodi Wang**, Rongfang Bie. Multi-scale semantic image inpainting with residual learning and GAN[J]. Neurocomputing，2019，331(9252312):199-212 
 
 
-### Teaching Assistant Experience
-* Beijing Normal University, Principle of Database System	(2019 Fall, 2020 Fall)
-* Beijing Normal University, Deep Learning (2018 Fall)
+### Teaching Experience
+* Lecturer, City University of Hong Kong, CS2115 Computer Organization
+* TA, Beijing Normal University, Principle of Database System	(2019 Fall, 2020 Fall)
+* TA, Beijing Normal University, Deep Learning (2018 Fall)
 
 ### Honor & Awards
 
